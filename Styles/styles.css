@@ -1,0 +1,48 @@
+/* Header Styles */
+* {
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.head{
+    background-image: url('../images/banner/banner1.png'); background-repeat: none;
+    background-position: top left;
+    width: 1600px; 
+    height: 808px;
+}
+.h {
+   padding: 216px 0px 364px 845px;
+    
+}
+
+.caption {
+  
+    padding-right: 525px;
+    text-align: right;
+    color: #151414;
+    font-size: 55px;
+    width: 425px;
+    font-weight: 700;
+    line-height: normal;
+}
+.text{
+    color: #444343;
+    margin-top: 24px;
+    font-size: 14px;
+    text-align: right;
+    width: 425px;
+    font-weight: 400;
+    line-height: 26px;
+}
+button{
+    border: none;
+    background-color: #F15B22;
+    color: #FFF;
+    margin-top: 30px;
+    margin-left: 268px;
+    width: 160px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 5px;
+}

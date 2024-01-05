@@ -8,7 +8,7 @@
 .head{
     background-image: url('../images/banner/banner1.png'); background-repeat: none;
     background-position: top left;
-    width: 1600px; 
+    width: 1353px; 
     height: 808px;
 }
 .h {
@@ -18,11 +18,11 @@
 
 .caption {
   
-    padding-right: 525px;
+    /* padding-right: 525px; */
     text-align: right;
     color: #151414;
     font-size: 55px;
-    width: 425px;
+    width: 409px;
     font-weight: 700;
     line-height: normal;
 }
@@ -31,7 +31,7 @@
     margin-top: 24px;
     font-size: 14px;
     text-align: right;
-    width: 425px;
+    width: 409px;
     font-weight: 400;
     line-height: 26px;
 }
@@ -40,7 +40,7 @@ button{
     background-color: #F15B22;
     color: #FFF;
     margin-top: 30px;
-    margin-left: 308px;
+    margin-left: 293px;
     width: 117px;
     height: 45px;
     flex-shrink: 0;

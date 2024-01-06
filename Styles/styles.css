@@ -190,11 +190,12 @@ button {
     font-weight: 1200;
 
 }
-.click{
+
+.click {
     margin: 0px 0px 90px 380px;
 }
 
-.button1{
+.button1 {
     color: #F15B22;
     text-align: center;
     font-size: 12px;
@@ -202,4 +203,95 @@ button {
     background-color: #FFF;
     width: 98px;
     height: 40px;
+}
+
+/* Footer Style */
+.dis {
+    background-color: #151414;
+    display: flex;
+    align-content: space-around;
+    padding-bottom: 500px;
+    color: #FFF;
+}
+
+.footer-column1 {
+
+
+    padding: 120px 0px 0px 335px;
+    font-size: 20px;
+    font-weight: 700;
+
+}
+
+.footer-column2 {
+    padding: 128px 0px 0px 450px;
+}
+
+.writing {
+
+    padding: 0px 335px;
+    color: #FFFFFF;
+    margin-top: -475px;
+    font-size: 11px;
+    font-weight: 200;
+    line-height: 26px;
+    width: 330px;
+}
+
+.mail {
+    padding: 0px 880px;
+    color: #FFF;
+    margin-top: -89px;
+    font-size: 14px;
+    font-weight: 200;
+    line-height: 26px;
+    width: 410px;
+}
+
+.email-box {
+    width: 200px;
+    height: 45px;
+    color: #f3f3f3;
+    font-size: 12px;
+    padding-left: 15px;
+    border-radius: 8px;
+    background-color: #151414;
+    border: 1px solid #fff
+}
+
+.b {
+    padding: 0px 590px;
+    width: 170.106px;
+    margin-top: -20px;
+    height: 55px;
+}
+
+.writing1 {
+    padding: 0px 335px;
+    color: #FFFFFF;
+    margin-top: 25px;
+    font-size: 11px;
+    font-weight: 200;
+    line-height: 26px;
+    width: 330px;
+}
+
+.writing2 {
+    padding: 0px 335px;
+    color: #FFFFFF;
+    margin-top: 10px;
+    font-size: 11px;
+    font-weight: 200;
+    line-height: 26px;
+    width: 330px;
+}
+
+.picture1 {
+    padding: 0px 10px 0px 335px;
+    margin-top: 10px;
+    align-content: space-around;
+}
+
+.logo1 {
+    padding: 0px 10px 0px 0px;
 }

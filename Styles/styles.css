@@ -210,7 +210,8 @@ button {
     background-color: #151414;
     display: flex;
     align-content: space-around;
-    padding-bottom: 500px;
+    padding-bottom: 300px;
+    margin-bottom: 200px;
     color: #FFF;
 }
 

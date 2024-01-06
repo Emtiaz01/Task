@@ -1,6 +1,7 @@
 /* Header Styles */
 * {
     margin: 0px;
+
     font-family: 'Open Sans', sans-serif;
     font-family: 'Work Sans', sans-serif;
 }
@@ -69,7 +70,7 @@ button {
 .w {
     color: #151414;
     font-size: 20px;
-    
+
     font-weight: 700;
     margin: -470px 0px 0px 700px;
     width: 288px;
@@ -80,19 +81,19 @@ button {
     font-size: 10px;
     font-weight: 300;
     line-height: 20px;
-    text-align:initial;
+    text-align: initial;
     width: 365px;
     margin: 24px 0px 0px 700px;
 }
 
 .i1 {
-    color:  #444343;
+    color: #444343;
     padding: 3px 0px 0px 0px;
     margin: -15px 0px 10px 110px;
     font-size: 10px;
     font-weight: 400;
     line-height: 26px;
-    
+
 }
 
 
@@ -109,6 +110,35 @@ button {
     color: #151414;
     font-size: 20px;
     font-weight: 700;
-    margin: 110px 0px 500px 580px;
+    margin: 110px 0px 20px 650px;
     width: 288px;
+}
+
+.pic {
+    padding-right: 150px;
+    align-content: space-between;
+}
+
+.picture {
+
+    padding: 30px 0px 15px 375px;
+    display: flex;
+
+}
+
+.t {
+    padding: 0px 0px 1219px 335px;
+    display: flex;
+    color: #151414;
+    text-align: center;
+    align-content: space-between;
+    font-size: 15px;
+    font-weight: 700;
+}
+.t1{
+    padding: 0px 109px 0px 0px;
+ 
+}
+.t2{
+    padding: 0px 112px 0px 10px;
 }
